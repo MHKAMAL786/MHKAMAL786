@@ -1,38 +1,13 @@
-Junior Web Developer
-Welcome to my GitHub profile! 👋
+### 👋 Hello! I'm Hasnain Kamal KaimKhani
 
-I’m a passionate Junior Web Developer with a growing knowledge of front-end and back-end technologies. I love learning new technologies and improving my skills. I aim to create clean, efficient, and user-friendly websites that provide great user experiences.
+⚖️ Advocate | 💻 Programmer | 🚀 LegalTech Enthusiast
 
-🚀 About Me
-🌱 I'm constantly learning and improving my skills.
-💻 I'm experienced with HTML, CSS, JavaScript, React, Node.js, and SQL.
-🎯 Currently focusing on improving my skills in React.js, Node.js, and Express.
-🛠️ Technologies & Tools
-Front-End:
+I'm a unique blend of law and code — a practicing Advocate at City Court Karachi and a passionate programmer building digital solutions for the legal world and beyond.
 
-HTML5
-CSS3 / SCSS
-JavaScript (ES6+)
-React.js
-Bootstrap / Tailwind CSS
-Back-End:
+🔍 I love exploring the intersection of justice and technology. Whether it's creating tools to simplify legal workflows or building modern web applications, I enjoy solving real-world problems through clean and efficient code.
 
-Node.js
-Express.js
-RESTful APIs
-MongoDB / MySQL
-Version Control:
+🛠️ **Tech Stack:** HTML | CSS | JavaScript | React | Node.js | PHP | MySQL  
+📂 Currently working on: Legal case tracker, document automation tools  
+🌐 Let’s connect and collaborate on projects that make a real difference.
 
-Git & GitHub
-Other Tools:
-
-VS Code
-Postman
-Figma / Adobe XD (UI/UX design)
-🌱 Learning & Growing
-I’m continuously working on improving my skills and learning new technologies. Currently, I am focusing on:
-
-Advanced JavaScript concepts (ES6+)
-Building full-stack applications
-Learning more about cloud services (AWS, Firebase)
-Getting comfortable with DevOps tools (Docker, CI/CD)
+> “Code with logic. Argue with reason. Innovate with purpose.”  
