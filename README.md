@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Hasnain Kamal</h1>
+<h1 align="center">Hi 👋, I'm Hasnain Kamal KaimKhani</h1>
 <h3 align="center">⚖️ Advocate | 💻 Programmer | 🚀 LegalTech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0AFFEF&center=true&width=440&lines=Practicing+Advocate+%F0%9F%8F%9F️;Passionate+Programmer+%F0%9F%92%BB;LegalTech+Innovator+%F0%9F%9A%80" alt="Typing SVG" />
+https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0AFFEF&center=true&width=440&lines=Practicing+Advocate+%F0%9F%8F%9F️;Passionate+Programmer+%F0%9F%92%BB;LegalTech+Innovator+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
