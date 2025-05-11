@@ -5,29 +5,21 @@
 </p>
 
  
-### 🔧 Tech Stack
+<h3 align="center">🔧 Tech Stack</h3>
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=linear-gradient(to right, #ff6347, #ff8c00)" alt="HTML" width="110px" height="110px" style="border-radius: 50%; box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1); transform: scale(1); transition: transform 0.3s, box-shadow 0.3s, background-color 0.3s;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=linear-gradient(to right, #1e90ff, #4682b4)" alt="CSS" width="110px" height="110px" style="border-radius: 50%; box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1); transform: scale(1); transition: transform 0.3s, box-shadow 0.3s, background-color 0.3s;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=linear-gradient(to right, #f7df1e, #f0e68c)" alt="JavaScript" width="110px" height="110px" style="border-radius: 50%; box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1); transform: scale(1); transition: transform 0.3s, box-shadow 0.3s, background-color 0.3s;" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=linear-gradient(to right, #20232a, #61dafb)" alt="React" width="110px" height="110px" style="border-radius: 50%; box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1); transform: scale(1); transition: transform 0.3s, box-shadow 0.3s, background-color 0.3s;" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=linear-gradient(to right, #339933, #3cb371)" alt="Node.js" width="110px" height="110px" style="border-radius: 50%; box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1); transform: scale(1); transition: transform 0.3s, box-shadow 0.3s, background-color 0.3s;" />
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&color=linear-gradient(to right, #777bb4, #8a7db1)" alt="PHP" width="110px" height="110px" style="border-radius: 50%; box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1); transform: scale(1); transition: transform 0.3s, box-shadow 0.3s, background-color 0.3s;" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=linear-gradient(to right, #4479a1, #5f8bb3)" alt="MySQL" width="110px" height="110px" style="border-radius: 50%; box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1); transform: scale(1); transition: transform 0.3s, box-shadow 0.3s, background-color 0.3s;" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
 </p>
 
 
