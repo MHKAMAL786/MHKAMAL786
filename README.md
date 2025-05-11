@@ -2,7 +2,7 @@
 <h3 align="center">⚖️ Advocate | 💻 Programmer | 🚀 LegalTech Enthusiast</h3>
 
 <p align="center">
-https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0AFFEF&center=true&width=440&lines=Practicing+Advocate+%F0%9F%8F%9F️;Passionate+Programmer+%F0%9F%92%BB;LegalTech+Innovator+%F0%9F%9A%80" 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0AFFEF&center=true&width=440&lines=Practicing+Advocate+%F0%9F%8F%9F️;Passionate+Programmer+%F0%9F%92%BB;LegalTech+Innovator+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
